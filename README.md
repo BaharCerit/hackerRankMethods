@@ -1,0 +1,2 @@
+# hackerRankMethods
+Hacker Rank Functions
